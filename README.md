@@ -20,10 +20,10 @@
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
                                                                     
                                                                     
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https:########">
+  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/TiPkSK2MJCrZMEqd62/giphy.gif">
 </div>
   
-  https://media.giphy.com/media/TiPkSK2MJCrZMEqd62/giphy.gif
+  
   ##
  
 <div> 
