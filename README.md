@@ -1,7 +1,7 @@
 ### Eae! Sou o Jean 👋
 
-- 🔭 Desenvolvo apps em android nativo e trabalho com o desenvolvimento de sites em Wordpress
-- 🌱 Estudo Java e kotlin
+- 🔭 Desenvolvo apps em android e trabalho com o desenvolvimento de sites em Wordpress
+- 🌱 Estudo Kotlin e Flutter
 - 📫 Contate-me pelo E-mail: jean.marcosdj@outlook.com
 - 😄 Pronouns: Ele/dele
 
