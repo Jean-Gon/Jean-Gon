@@ -1,9 +1,8 @@
 ### Eae! Sou o Jean 👋
 
-- 🔭 Desenvolvo apps em android e trabalho com o desenvolvimento de sites em Wordpress
-- 🌱 Estudo Kotlin e Flutter
+- 🔭 Desenvolvi alguns apps em android e trabalho com infraestrutura e banco de dados
+- 🌱 Azure e AWS
 - 📫 Contate-me pelo E-mail: jean.marcosdj@outlook.com
-- 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/Jean-Gon">
