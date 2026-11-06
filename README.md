@@ -1,6 +1,4 @@
 ### Eae! Sou o Jean 👋
-
-- 🔭 Desenvolvi alguns apps em android e trabalho com infraestrutura e banco de dados
 - 🌱 Azure e AWS
 - 📫 Contate-me pelo E-mail: jean.marcosdj@outlook.com
 
